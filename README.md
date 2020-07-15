@@ -1,5 +1,5 @@
 # 🤖 Santhosh Kumar Dhanasekaran  🤖
-##  🕺 CEO @ WeInkWriters   |   👨‍💻 Freelance ML Developer
+##  🕺 [CEO @ WeInkWriters](https://weinkwriters.com)   |   👨‍💻 Freelance ML Developer | [Public Spreaker](https://www.youtube.com/watch?v=MFH4U2yGUcM)
 
 ### Hey Techiee!! 👋
 
@@ -11,7 +11,7 @@ Connect with me on
 
 * 🎙great leadership skills which dwell in me from being the campus ambassadors of premium institutes across India
 
-* 🗣🗣 public speaker YouTuber - [WeInkWriters](https://weinkwriters.com) 
+* 🗣🗣 public speaker YouTuber - [WeInkWriters](https://www.youtube.com/channel/UCyJBMhkN3MlHHWWZrDDtXPQ) 
 
 * led many teams in college-level in the path of achieving goals👊👊🤜
 
