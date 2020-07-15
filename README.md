@@ -1,4 +1,4 @@
-# Santhosh Kumar Dhanasekaran
+# 🤖🤖 Santhosh Kumar Dhanasekaran  🤖🤖
 ### CEO @ WeInkWriters   |  Freelance ML Developer
 
 ### Hey Techiee!! 👋
@@ -12,7 +12,7 @@ Connect with me on
 
 🎙great leadership skills which dwell in me from being the campus ambassadors of premium institutes across India
 
-🗣🗣 public speaker YouTuber -  [ ! [WeInkWriters] ] (https://weinkwriters.com) 
+🗣🗣 public speaker YouTuber -  [WeInkWriters] (https://weinkwriters.com) 
 
 led many teams in college-level in the path of achieving goals👊👊🤜
 
@@ -22,9 +22,11 @@ gamer for life, love to play FPS and role-playing games🎮🎮 (CS:GO, R6)
 
 Participated in a variety of coding tournaments (Online & Offline)😎
 
-🌌🌌Try Try till you reach you the sky!!!!🙌🙌
+## My Quote
 
-Coder are coders who code; To the core;👨‍💻👨‍💻👨‍💻 
+> 🌌🌌Try Try till you reach you the sky!!!!🙌🙌
+
+> Coder are coders who code; To the core;👨‍💻👨‍💻👨‍💻 
 
 
 <!--
