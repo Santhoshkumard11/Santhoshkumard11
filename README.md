@@ -28,10 +28,10 @@ Connect with me on
 > Coder are coders who code; To the core;👨‍💻👨‍💻👨‍💻 
 
 
-![Santhosh Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Santhoshkumard11&hide=["issues"]&show_icons=true&bg_color=blue)
+![Santhosh Kumar's github stats](https://github-readme-stats-1am6av9hm.vercel.app/api?username=Santhoshkumard11&hide=["issues"]&show_icons=true&bg_color=blue)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshkumard11&layout=compact)
+![Top Langs](https://github-readme-stats-1am6av9hm.vercel.app/api/top-langs/?username=Santhoshkumard11&layout=compact)
 
 
 <!--
