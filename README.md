@@ -28,6 +28,8 @@ Connect with me on
 > Coder are coders who code; To the core;👨‍💻👨‍💻👨‍💻 
 
 
+![Santhosh Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Santhoshkumard11&hide=["issues"]&show_icons=true&bg_color=blue)
+
 <!--
 **Santhoshkumard11/Santhoshkumard11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
