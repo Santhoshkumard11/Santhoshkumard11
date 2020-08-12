@@ -28,13 +28,15 @@ Connect with me on
 > Coder are coders who code; To the core;👨‍💻👨‍💻👨‍💻 
 
 <a href="https://github.com/Santhoshkumard11/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lac.vercel.app/api?username=santhoshkumard11&show_icons=true&include_all_commits=true&theme=algolia" alt="Santhosh Kumar's github stats" />
+  <img align="center" src="https://github-readme-stats-lac.vercel.app/api?username=santhoshkumard11&show_icons=true&count_private=true&theme=algolia" alt="Santhosh Kumar's github stats" />
 </a>
 
 <a href="https://github.com/Santhoshkumard11/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lac.vercel.app/api/top-langs/?username=Santhoshkumard11&layout=compact&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats-lac.vercel.app/api/top-langs/?username=santhoshkumard11&layout=compact&theme=algolia"/>
 </a>
 
+
+![ReadMe Card](https://github-readme-stats-lac.vercel.app/api/pin/?username=santhoshkumard11&repo=whatsapp-message-bot&theme=algolia)
 
 <!--
 **Santhoshkumard11/Santhoshkumard11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
