@@ -30,6 +30,10 @@ Connect with me on
 
 ![Santhosh Kumar's github stats](https://github-readme-stats.vercel.app/api?username=Santhoshkumard11&hide=["issues"]&show_icons=true&bg_color=blue)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshkumard11&layout=compact)
+
+
 <!--
 **Santhoshkumard11/Santhoshkumard11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
