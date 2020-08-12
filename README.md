@@ -32,7 +32,7 @@ Connect with me on
 </a>
 
 <a href="https://github.com/Santhoshkumard11/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lac.vercel.app/api/top-langs/?username=Santhoshkumard11&layout=compact&theme=prussian"/>
+  <img align="center" src="https://github-readme-stats-lac.vercel.app/api/top-langs/?username=Santhoshkumard11&layout=compact&theme=algolia"/>
 </a>
 
 
