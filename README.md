@@ -27,11 +27,13 @@ Connect with me on
 
 > Coder are coders who code; To the core;👨‍💻👨‍💻👨‍💻 
 
+<a href="https://github.com/Santhoshkumard11/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-lac.vercel.app/api?username=Santhoshkumard11&show_icons=true&include_all_commits=true&theme=algolia" alt="Santhosh Kumar's github stats" />
+</a>
 
-![Santhosh Kumar's github stats](https://github-readme-stats-1am6av9hm.vercel.app/api?username=Santhoshkumard11&hide=["issues"]&show_icons=true&bg_color=blue)
-
-
-![Top Langs](https://github-readme-stats-1am6av9hm.vercel.app/api/top-langs/?username=Santhoshkumard11&layout=compact)
+<a href="https://github.com/Santhoshkumard11/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-lac.vercel.app/api/top-langs/?username=Santhoshkumard11&layout=compact&theme=tokyonight" />
+</a>
 
 
 <!--
