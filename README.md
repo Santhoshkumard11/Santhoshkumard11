@@ -8,8 +8,8 @@
 
 <samp> Connect with me on </samp> [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/santos11541/) [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/santhosh-kumar-dhanasekaran-85a89b131/)
 
-<img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/oracle_badge.png' width='150'>
-<img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/microsoft_badge.png' width='150"'>
+<a href="https://www.youracclaim.com/badges/315a746c-78db-4b05-8546-ad551fbe0227"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/oracle_badge.png' width='150'> </a>
+<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14329594"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/microsoft_badge.png' width='150"'> </a>
 
 <!-- Add the images of social accounts-->
 
@@ -17,7 +17,7 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat&lSanthoshkumard11ogo=tensorflow&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Keras](https://img.shields.io/badge/-Keras-black?style=flat&logo=keras&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![PyCaret](https://img.shields.io/badge/-PyCaret-black?style=flat&logo=PyCaret&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 
 
-[![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logowidth=20&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) 
+[![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) 
 
 
 [![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logowidth=20&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logowidth=20&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
