@@ -4,7 +4,7 @@
 <a href="https://sourcerer.io/santhoshkumard11"><img src="https://img.shields.io/badge/Python-80%20commits-orange.svg" alt=""></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Santhoshkumard11)
 
-### Hey Techiee!! 👋
+### Hey Techiee!!! 👋
 
 <samp> Connect with me on </samp> [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/santos11541/) [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/santhosh-kumar-dhanasekaran-85a89b131/)
 
