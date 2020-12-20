@@ -34,8 +34,11 @@
 
 * <samp> gamer for life, love to play FPS and role-playing games🎮🎮 (CS:GO, R6) </samp>
 
-* <samp> Participated in a variety of coding tournaments (Online & Offline)😎 </samp>
-
+* <samp> Participated in 5+ hackathons😎 </samp>
+* <samp> Microsoft HackNight 1.0 </samp>
+* <samp> AirBus Areothon 2.0 </samp>
+* <samp> Coviam Technologies Codiecon </samp>
+* <samp> Soliton Technologies Code Premier League </samp>
 
 ## My Quote
 
