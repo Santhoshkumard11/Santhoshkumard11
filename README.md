@@ -13,10 +13,23 @@
 <!-- Add the images of social accounts-->
 
 ## <samp>Tech Stack </samp>
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat&lSanthoshkumard11ogo=tensorflow&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Keras](https://img.shields.io/badge/-Keras-black?style=flat&logo=keras&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![PyCaret](https://img.shields.io/badge/-PyCaret-black?style=flat&logo=PyCaret&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Tensorflow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Keras](https://img.shields.io/badge/-Keras-black?style=flat&logo=keras&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![PyCaret](https://img.shields.io/badge/-PyCaret-black?style=flat&logo=PyCaret&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 
-[![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) 
+[![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+[![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) 
+
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat&logo=jenkins&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+
+[![Azure](https://img.shields.io/badge/-MicrosoftAzure-black?style=flat&logo=microsoft-azure&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+[![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-black?style=flat&logo=azure-devops&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+[![Ms-SQL](https://img.shields.io/badge/-MicrosoftSQLServer-black?style=flat&logo=microsoft-sql-server&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+[![SQlite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=SQLite&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) 
 
 
 [![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logowidth=20&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logowidth=20&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
