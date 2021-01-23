@@ -13,6 +13,9 @@
 <!-- Add the images of social accounts-->
 
 ## <samp>Tech Stack </samp>
+
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=Ubuntu&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Tensorflow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Keras](https://img.shields.io/badge/-Keras-black?style=flat&logo=keras&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![PyCaret](https://img.shields.io/badge/-PyCaret-black?style=flat&logo=PyCaret&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
