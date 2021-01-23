@@ -32,7 +32,7 @@
 
 [![Azure](https://img.shields.io/badge/-MicrosoftAzure-black?style=flat&logo=microsoft-azure&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 [![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-black?style=flat&logo=azure-devops&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
-[![AWS](https://img.shields.io/badge/-AmazonAWS-black?style=flat&logo=amazon-aws&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+[![AWS](https://img.shields.io/badge/-AmazonAWS-black?style=flat&logo=amazon-aws&link=https://github.com/Santhoshkumard11&logoColor=FF9900)](https://github.com/Santhoshkumard11)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 [![Ms-SQL](https://img.shields.io/badge/-MicrosoftSQLServer-black?style=flat&logo=microsoft-sql-server&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
