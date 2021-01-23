@@ -16,11 +16,15 @@
 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=Ubuntu&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Tensorflow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Keras](https://img.shields.io/badge/-Keras-black?style=flat&logo=keras&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![PyCaret](https://img.shields.io/badge/-PyCaret-black?style=flat&logo=PyCaret&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+[![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat&logo=visual-studio&link=https://github.com/Santhoshkumard11&logoColor=522D91)](https://github.com/Santhoshkumard11)
+[![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=visual-studio-code&link=https://github.com/Santhoshkumard11&logoColor=007ACC)](https://github.com/Santhoshkumard11)
+[![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-black?style=flat&logo=android-studio&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Tensorflow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![Keras](https://img.shields.io/badge/-Keras-black?style=flat&logo=keras&link=https://github.com/Santhoshkumard11&logoColor=D00000)](https://github.com/Santhoshkumard11) [![PyCaret](https://img.shields.io/badge/-PyCaret-black?style=flat&logo=PyCaret&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 
-[![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+[![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&link=https://github.com/Santhoshkumard11&logoColor=092E20)](https://github.com/Santhoshkumard11)
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) 
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
