@@ -48,18 +48,18 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 
 * 🤹‍♂️🤹‍♂️ <samp> eager to learn new pieces of stuff wherever and whenever possible </samp>
-
-* 🎙 <samp> great leadership skills which dwell in me from being the campus ambassadors of premium institutes across India </samp>
-
-* <samp> programmer, interested in taking up new challenges from the business world </samp>🐱‍🏍
-
-* <samp> gamer for life, love to play FPS and role-playing games🎮🎮 (CS:GO, R6) </samp>
-
 * <samp> Participated in 5+ hackathons😎 </samp>
 * <samp> Microsoft HackNight 1.0 </samp>
 * <samp> AirBus Areothon 2.0 </samp>
 * <samp> Coviam Technologies Codiecon </samp>
 * <samp> Soliton Technologies Code Premier League </samp>
+
+* 🎙 <samp> great leadership skills which dwell in me from being the campus ambassadors of premium institutes across India </samp>
+
+* <samp> Ready to take up new challenges from the business world </samp>🐱‍🏍
+
+* <samp> gamer for life, love to play FPS and role-playing games🎮🎮 (CS:GO, R6) </samp>
+
 
 ## My Quote
 
