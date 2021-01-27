@@ -12,7 +12,7 @@
 
 <!-- Add the images of social accounts-->
 
-## <samp>Tech Stack </samp>
+## <samp>My Tech Stack </samp>
 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=Ubuntu&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 
