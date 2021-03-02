@@ -1,5 +1,5 @@
 # <samp> 🤖 Santhosh Kumar Dhanasekaran  🤖</samp>
-## 👨‍💻 Freelance ML Developer | Public Speaker [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >](https://www.youtube.com/channel/UC2cPWhOwuiX4DCTXMPUgl7g) | Gamer(R6,CS:GO)
+## 👨‍💻 Freelance ML Developer | Public Speaker [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >](https://www.youtube.com/channel/UC2cPWhOwuiX4DCTXMPUgl7g) | Gamer(R6,CS:GO,Rocket League)
 <a href="https://github.com/Santhoshkumard11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Santhoshkumard11)
 
@@ -70,8 +70,6 @@
 <a href="https://github.com/Santhoshkumard11/github-readme-stats">
   <img align="center" src="https://github-readme-stats-lac.vercel.app/api?username=santhoshkumard11&show_icons=true&count_private=true&theme=algolia" alt="Santhosh Kumar's github stats" />
 </a>
-
-
 
 
 
