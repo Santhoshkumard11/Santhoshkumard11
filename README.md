@@ -47,6 +47,8 @@
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 
+## Programmer Brain with Gamer Vein 👨‍💻🎮🕹
+
 * 🤹‍♂️🤹‍♂️ <samp> eager to learn new pieces of stuff wherever and whenever possible </samp>
 * <samp> Participated in 5+ hackathons😎 </samp>
 * <samp> Microsoft HackNight 1.0 </samp>
@@ -54,7 +56,7 @@
 * <samp> Coviam Technologies Codiecon </samp>
 * <samp> Soliton Technologies Code Premier League </samp>
 
-* 🎙 <samp> great leadership skills which dwell in me from being the campus ambassadors of premium institutes across India </samp>
+* 🎙 <samp> Expressing great leadership skills which dwell in me from being the campus ambassadors of many premium institutes across India </samp>
 
 * <samp> Ready to take up new challenges from the business world </samp>🐱‍🏍
 
