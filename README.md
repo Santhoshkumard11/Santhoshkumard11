@@ -65,7 +65,7 @@
 
 ## My Quote
 
-> 🌌🌌 <samp>Try Try till you reach you the sky!!!! </samp>🙌🙌 
+> 🌌🌌 <samp>Try Try till you reach you the sky!!!!!</samp>🙌🙌 
 
 > <samp> Coder are coders who code; To the core; </samp>👨‍💻👨‍💻👨‍💻 
 
