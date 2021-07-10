@@ -61,7 +61,7 @@
 
 * <samp> Ready to take up new challenges from the business world </samp>🐱‍🏍
 
-* <samp> gamer for life, love to play FPS and role-playing games🎮🎮 (CS:GO, R6) </samp>
+* <samp> gamer for life, love to play FPS and role-playing games🎮🎮 (CS:GO, R6, Rocket League) </samp>
 
 
 ## My Quote
