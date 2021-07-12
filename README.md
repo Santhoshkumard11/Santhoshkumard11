@@ -53,7 +53,7 @@
 * 🤹‍♂️🤹‍♂️ <samp> eager to learn new pieces of stuff wherever and whenever possible </samp>
 * <samp> Participated in 5+ hackathons😎 </samp>
 * <samp> Microsoft HackNight 1.0 </samp>
-* <samp> AirBus Areothon 2.0 </samp>
+* <samp> AirBus Areothon 3.0  - Finalists</samp>
 * <samp> Coviam Technologies Codiecon </samp>
 * <samp> Soliton Technologies Code Premier League </samp>
 
