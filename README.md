@@ -9,7 +9,7 @@
 
 <a href="https://www.youracclaim.com/badges/315a746c-78db-4b05-8546-ad551fbe0227"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-fundamentals-600x600.png' width='150'> </a>
 <a href="https://www.youracclaim.com/badges/52945e6f-8c00-45d8-a3b1-410c86c2c293"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-scientist-associate-600x600.png' width='150"'> </a>
-<a href="https://www.credly.com/badges/23494000-1c1e-4572-a386-81f765be6e7c"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-ai-fundamentals-600x600.png' width='150"'> </a>
+<a href="https://www.credly.com/badges/23494000-1c1e-4572-a386-81f765be6e7c"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/Azure Developer stories 2021 badge.png' width='150"'> </a>
 
 <!-- Add the images of social accounts-->
 
