@@ -51,7 +51,9 @@
 ## Programmer Brain with Gamer Vein 👨‍💻🎮🕹
 
 * 🤹‍♂️🤹‍♂️ <samp> eager to learn new pieces of stuff wherever and whenever possible </samp>
-* <samp> Participated in 6+ hackathons😎 </samp>
+* <samp> Participated in 9+ hackathons😎 </samp>
+* <samp> Azure Community Conference 2021 Hackathon - 1st Prize </samp>
+* <samp> Azure Developer Stories - 1st Prize </samp>
 * <samp> Microsoft HackNight 1.0 </samp>
 * <samp> AirBus Areothon 3.0  - Finalists </samp>
 * <samp> Azure Developer League 2021 - Finalists </samp>
