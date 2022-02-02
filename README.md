@@ -5,7 +5,8 @@
 
 ### Hey Techiee!!!!! 👋
 
-<samp> Get in touch with me on </samp> [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/santos11541/) [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/santhosh-kumar-dhanasekaran-85a89b131/) [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+<samp> Get in touch with me on </samp> [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/santos11541/) [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/santhosh-kumar-dhanasekaran-85a89b131/)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) -->
 
 <a href="https://www.youracclaim.com/badges/315a746c-78db-4b05-8546-ad551fbe0227"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-fundamentals-600x600.png' width='150'> </a>
 <a href="https://www.youracclaim.com/badges/52945e6f-8c00-45d8-a3b1-410c86c2c293"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-scientist-associate-600x600.png' width='150"'> </a>
@@ -72,6 +73,7 @@
 > 🌌🌌 <samp>Try Try till you reach you the sky!!!!!</samp>🙌🙌 
 
 > <samp> Coder are coders who code; To the core; </samp>👨‍💻👨‍💻👨‍💻 
+>  <samp> Once a coder; Always a coder </samp>👨‍💻👨
 
 <a href="https://github.com/Santhoshkumard11/github-readme-stats">
   <img align="center" src="https://github-readme-stats-lac.vercel.app/api?username=santhoshkumard11&show_icons=true&count_private=true&theme=algolia" alt="Santhosh Kumar's github stats" />
