@@ -1,16 +1,19 @@
-# <samp> 🤖 Santhosh Kumar Dhanasekaran  🤖</samp>
+# <samp> 🤖 Santhosh Kumar Dhanasekaran (Sandy)  🤖</samp>
 ## 👨‍💻 Data Engineer at Cognizant | 🏆Winner Azure Developer Stories & Azure Community Conference 2021 | Hackathon Enthusiast | 🎙Public Speaker [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >](https://www.youtube.com/channel/UC2cPWhOwuiX4DCTXMPUgl7g) | ✍Technical Writer | 🎮Gamer (R6, CS:GO, Rocket League, FIFA)
 <a href="https://github.com/Santhoshkumard11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Santhoshkumard11)
 
 ### Hey Techiee!!!!! 👋
 
-<samp> Get in touch with me on </samp> [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/sandy_codes_py) [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/santhosh-kumard)
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11) -->
+<samp> Get in touch with me on </samp> 
 
-<a href="https://www.youracclaim.com/badges/315a746c-78db-4b05-8546-ad551fbe0227"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-fundamentals-600x600.png' width='150'> </a>
-<a href="https://www.youracclaim.com/badges/52945e6f-8c00-45d8-a3b1-410c86c2c293"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-scientist-associate-600x600.png' width='150"'> </a>
-<a href="https://www.credly.com/badges/23494000-1c1e-4572-a386-81f765be6e7c"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/Azure Developer stories 2021 badge.png' width='150"'> </a>
+[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/santhosh-kumard)
+![Twitter Follow](https://img.shields.io/twitter/follow/sandy_codes_py?style=social)
+[![Instagram Account Link](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://github.com/Santhoshkumard11)](https://www.instagram.com/santhoshgoku/)
+
+<a href="https://www.youracclaim.com/badges/315a746c-78db-4b05-8546-ad551fbe0227"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-fundamentals-600x600.png' width='200'> </a>
+<a href="https://www.youracclaim.com/badges/52945e6f-8c00-45d8-a3b1-410c86c2c293"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-scientist-associate-600x600.png' width='200"'> </a>
+<a href="https://www.credly.com/badges/23494000-1c1e-4572-a386-81f765be6e7c"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/Azure Developer stories 2021 badge.png' width='200"'> </a>
 
 <!-- Add the images of social accounts-->
 
@@ -52,11 +55,11 @@
 ## Programmer Brain with Gamer Vein 👨‍💻🎮🕹
 
 * 🤹‍♂️🤹‍♂️ <samp> eager to learn new pieces of stuff wherever and whenever possible </samp>
-* <samp> Participated in 9+ hackathons😎 </samp>
+* <samp> Participated in 10+ hackathons😎 </samp>
 * <samp> Azure Community Conference 2021 Hackathon - 1st Prize </samp>
 * <samp> Azure Developer Stories - 1st Prize </samp>
-* <samp> Microsoft HackNight 1.0 </samp>
-* <samp> AirBus Areothon 3.0  - Finalists </samp>
+* <samp> Microsoft HackNight 1.0 - Finalist - Bangalore </samp>
+* <samp> AirBus Areothon 3.0  - Finalists - Bangalore</samp>
 * <samp> Azure Developer League 2021 - Finalists </samp>
 * <samp> Coviam Technologies Codiecon </samp>
 * <samp> Soliton Technologies Code Premier League </samp>
