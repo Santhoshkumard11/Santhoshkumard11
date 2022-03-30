@@ -11,9 +11,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/sandy_codes_py?style=social)
 [![Instagram Account Link](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://github.com/Santhoshkumard11)](https://www.instagram.com/santhoshgoku/)
 
-<a href="https://www.youracclaim.com/badges/315a746c-78db-4b05-8546-ad551fbe0227"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-fundamentals-600x600.png' width='200'> </a>
-<a href="https://www.youracclaim.com/badges/52945e6f-8c00-45d8-a3b1-410c86c2c293"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-scientist-associate-600x600.png' width='200"'> </a>
-<a href="https://www.credly.com/badges/23494000-1c1e-4572-a386-81f765be6e7c"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/Azure Developer stories 2021 badge.png' width='200"'> </a>
+<a href="https://www.youracclaim.com/badges/315a746c-78db-4b05-8546-ad551fbe0227"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-fundamentals-600x600.png' width='150'> </a>
+<a href="https://www.youracclaim.com/badges/52945e6f-8c00-45d8-a3b1-410c86c2c293"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-scientist-associate-600x600.png' width='150"'> </a>
+<a href="https://www.credly.com/badges/23494000-1c1e-4572-a386-81f765be6e7c"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/Azure Developer stories 2021 badge.png' width='150"'> </a>
 
 <!-- Add the images of social accounts-->
 
@@ -76,6 +76,7 @@
 > 🌌🌌 <samp>Try Try till you reach you the sky!!!!!</samp>🙌🙌 
 
 > <samp> Coder are coders who code; To the core; </samp>👨‍💻👨‍💻👨‍💻 
+
 >  <samp> Once a coder; Always a coder </samp>👨‍💻👨
 
 <a href="https://github.com/Santhoshkumard11/github-readme-stats">
