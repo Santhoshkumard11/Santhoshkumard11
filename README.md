@@ -73,6 +73,8 @@
 
 ## My Quote
 
+> <samp> Unfollow me and start following your passion. </samp>
+
 > 🌌🌌 <samp>Try Try till you reach you the sky!!!!!</samp>🙌🙌 
 
 > <samp> Coder are coders who code; To the core; </samp>👨‍💻👨‍💻👨‍💻 
