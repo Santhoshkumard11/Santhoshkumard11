@@ -1,5 +1,5 @@
 # <samp> 🤖 Santhosh Kumar Dhanasekaran (Sandy)  🤖</samp>
-## 👨‍💻 Data Engineer at Cognizant | 🏆Winner Azure Developer Stories & Azure Community Conference 2021 | Hackathon Enthusiast | 🎙Public Speaker [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >](https://www.youtube.com/channel/UC2cPWhOwuiX4DCTXMPUgl7g) | ✍Technical Writer | 🎮Gamer (R6, CS:GO, Rocket League, FIFA)
+## 👨‍💻 Data Engineer at Cognizant | 🏆 Winner 3X Azure Hackathons | 💸 5X Hackathon Wins (~$6500) | 🎙Public Speaker [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >](https://www.youtube.com/channel/UC2cPWhOwuiX4DCTXMPUgl7g) | ✍Technical Writer | 🎮Gamer (R6, CS:GO, Rocket League, FIFA)
 <a href="https://github.com/Santhoshkumard11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Santhoshkumard11)
 
@@ -8,7 +8,7 @@
 <samp> Get in touch with me on </samp> 
 
 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/santhosh-kumard)
-![Twitter Follow](https://img.shields.io/twitter/follow/sandy_codes_py?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/sandy_inspires?style=social)
 [![Instagram Account Link](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://github.com/Santhoshkumard11)](https://www.instagram.com/santhoshgoku/)
 
 <a href="https://www.youracclaim.com/badges/315a746c-78db-4b05-8546-ad551fbe0227"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-fundamentals-600x600.png' width='150'> </a>
