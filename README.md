@@ -9,7 +9,7 @@
 
 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/santhosh-kumard)
 ![Twitter Follow](https://img.shields.io/twitter/follow/sandy_inspires?style=social)
-[![Instagram Account Link](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://github.com/Santhoshkumard11)](https://www.instagram.com/santhoshgoku/)
+[![Instagram Account Link](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://github.com/Santhoshkumard11)](https://www.instagram.com/sandy_inspires)
 
 <a href="https://www.youracclaim.com/badges/315a746c-78db-4b05-8546-ad551fbe0227"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-fundamentals-600x600.png' width='150'> </a>
 <a href="https://www.youracclaim.com/badges/52945e6f-8c00-45d8-a3b1-410c86c2c293"> <img align='right' src='https://github.com/Santhoshkumard11/Santhoshkumard11/blob/master/images/azure-data-scientist-associate-600x600.png' width='150"'> </a>
