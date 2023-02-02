@@ -1,5 +1,5 @@
 # <samp> 🤖 Santhosh Kumar Dhanasekaran (Sandy)  🤖</samp>
-## 👨‍💻 Data Engineer at Cognizant | 🏆 Winner 3X Azure Hackathons | 💸 5X Hackathon Wins (~$6500) | 🎙Public Speaker [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >](https://www.youtube.com/channel/UC2cPWhOwuiX4DCTXMPUgl7g) | ✍Technical Writer | 🎮Gamer (R6, CS:GO, Rocket League, FIFA)
+## 👨‍💻 Data Engineer at Rakuten | 🏆 Winner 4X Azure Hackathons | 💸 6X Hackathon Wins (~$6500) | 🎙Public Speaker [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >](https://www.youtube.com/channel/UC2cPWhOwuiX4DCTXMPUgl7g) | ✍Technical Writer | 🎮Gamer (R6, CS:GO, Rocket League, FIFA)
 <a href="https://github.com/Santhoshkumard11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Santhoshkumard11)
 
