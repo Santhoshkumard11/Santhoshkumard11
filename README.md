@@ -1,5 +1,5 @@
 # <samp> 🤖 Santhosh Kumar Dhanasekaran (Sandy)  🤖</samp>
-## 👨‍💻 Data Engineer at Rakuten | 🏆 Winner 4X Azure Hackathons | 💸 6X Hackathon Wins (~$6500) | 🎙Public Speaker [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >](https://www.youtube.com/channel/UC2cPWhOwuiX4DCTXMPUgl7g) | ✍Technical Writer | 🎮Gamer (R6, CS:GO, Rocket League, FIFA)
+## 👨‍💻 Data Engineer at Rakuten | 🏆 10X Hackathon Wins (~$14,600) | 🎙Public Speaker [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >](https://www.youtube.com/channel/UC2cPWhOwuiX4DCTXMPUgl7g) | ✍Technical Writer | 🎮Gamer (R6, CS:GO, Rocket League, FIFA)
 <a href="https://github.com/Santhoshkumard11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Santhoshkumard11)
 
@@ -20,7 +20,15 @@
 ## <samp>My Tech Stack </samp>
 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=Ubuntu&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
+[![macOS](https://img.shields.io/badge/-macos?style=social&logoColor=%23393a3b&label=macOS&labelColor=%23c5c7c9&color=%23c5c7c9&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
 
+![PySpark](https://img.shields.io/badge/Apache%20Spark-black?logo=apachespark) 
+![Hive](https://img.shields.io/badge/Apache%20Hive-black?logo=apachehive)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-black?logo=apachekafka)
+
+
+
+[![PyCharm](https://img.shields.io/badge/PyCharm-green?logo=pycharm&link=https://github.com/Santhoshkumard11&logoColor=522D91)](https://github.com/Santhoshkumard11)
 [![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat&logo=visual-studio&link=https://github.com/Santhoshkumard11&logoColor=522D91)](https://github.com/Santhoshkumard11)
 [![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=visual-studio-code&link=https://github.com/Santhoshkumard11&logoColor=007ACC)](https://github.com/Santhoshkumard11)
 [![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-black?style=flat&logo=android-studio&link=https://github.com/Santhoshkumard11)](https://github.com/Santhoshkumard11)
@@ -55,7 +63,7 @@
 ## Programmer Brain with Gamer Vein 👨‍💻🎮🕹
 
 * 🤹‍♂️🤹‍♂️ <samp> eager to learn new pieces of stuff wherever and whenever possible </samp>
-* <samp> Participated in 10+ hackathons😎 </samp>
+* <samp> Participated in 15+ hackathons😎 </samp>
 * <samp> Azure Community Conference 2021 Hackathon - 1st Prize </samp>
 * <samp> Azure Developer Stories - 1st Prize </samp>
 * <samp> Microsoft HackNight 1.0 - Finalist - Bangalore </samp>
@@ -64,7 +72,7 @@
 * <samp> Coviam Technologies Codiecon </samp>
 * <samp> Soliton Technologies Code Premier League </samp>
 
-* 🎙 <samp> Expressing great leadership skills which dwell in me from being the campus ambassadors of many premium institutes across India </samp>
+* 🎙 <samp> Expressing great leadership skills which dwell in me from being the campus ambassador of many premium institutes across India </samp>
 
 * <samp> Ready to take up new challenges from the business world </samp>🐱‍🏍
 
@@ -84,21 +92,3 @@
 <a href="https://github.com/Santhoshkumard11/github-readme-stats">
   <img align="center" src="https://github-readme-stats-lac.vercel.app/api?username=santhoshkumard11&show_icons=true&count_private=true&theme=algolia" alt="Santhosh Kumar's github stats" />
 </a>
-
-
-
-
-<!--
-**Santhoshkumard11/Santhoshkumard11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
