@@ -1,5 +1,5 @@
-# <samp> 🤖 Santhosh Kumar Dhanasekaran (Sandy)  🤖</samp>
-## 👨‍💻 Data Engineer at Rakuten | 🏆 10X Hackathon Wins (~$14,600) | 🎙Public Speaker [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >](https://www.youtube.com/channel/UC2cPWhOwuiX4DCTXMPUgl7g) | ✍Technical Writer | 🎮Gamer (R6, CS:GO, Rocket League, FIFA)
+# <samp> 🤖 D Santhosh Kumar (Sandy)  🤖</samp>
+## 👨‍💻 Data Engineer at Walmart | 🏆 13X Hackathon Wins (~$20,000) | 🎙Public Speaker [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/youtube.svg" >](https://www.youtube.com/channel/UC2cPWhOwuiX4DCTXMPUgl7g) | ✍Technical Writer | 🎮Gamer (R6, CS:GO, Rocket League, FIFA)
 <a href="https://github.com/Santhoshkumard11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Santhoshkumard11)
 
